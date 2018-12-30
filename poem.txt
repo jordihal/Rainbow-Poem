@@ -3,5 +3,5 @@ Red
 White
 Green
 Yellow       
-New color
+
 These are the colors of the unicorn
