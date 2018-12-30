@@ -2,6 +2,5 @@ Purple
 Red
 White
 Green
-Yellow  
-Indigo
+Yellow       
 These are the colors of the unicorn
